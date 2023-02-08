@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d0a889c.css",
+    "main.js": "/static/js/main.a3820b4e.js",
+    "static/media/25+5 clock alarm.mp3": "/static/media/25+5 clock alarm.ad54fafde9b3a5d10626.mp3",
+    "index.html": "/index.html",
+    "main.3d0a889c.css.map": "/static/css/main.3d0a889c.css.map",
+    "main.a3820b4e.js.map": "/static/js/main.a3820b4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0a889c.css",
+    "static/js/main.a3820b4e.js"
+  ]
+}
